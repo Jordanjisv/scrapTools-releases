@@ -1,11 +1,8 @@
 ﻿{
-  "version": "1.0.1",
-  "installerUrl": "https://github.com/Jordanjisv/scrapTools-releases/releases/download/v1.0.1/scrapTools-Setup-1.0.1.exe",
-  "sha256": "DD68572A786A2E12B293D3147389C0589369EF874EC677C9AF065954FE382DD2",
-  "releaseNotes": "Versión inicial del sistema de actualización de scrapTools.",
+  "version": "1.0.2",
+  "installerUrl": "https://github.com/Jordanjisv/scrapTools-releases/releases/download/v1.0.2/scrapTools-Setup-1.0.2.exe",
+  "sha256": "896BA3E66738F1E3ACABCF6DEE144D50EF6BDD1AD10F9D3AF9C65D5F777DA520",
+  "releaseNotes": "Correcciones de estabilidad: datos de trabajo en rutas con permisos de escritura y salida UTF-8 correcta del scraper.",
   "publishedAt": "2026-09-16",
   "mandatory": false
 }
-
-
-
