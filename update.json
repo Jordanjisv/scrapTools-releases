@@ -1,9 +1,10 @@
 ﻿{
-  "version": "1.0.2",
+  "version": "1.0.1",
   "installerUrl": "",
   "sha256": "",
-  "releaseNotes": "Prueba de detección de una nueva versión desde GitHub.",
+  "releaseNotes": "Versión inicial del sistema de actualización de scrapTools.",
   "publishedAt": "2026-09-16",
   "mandatory": false
 }
+
 
